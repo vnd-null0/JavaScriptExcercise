@@ -1,0 +1,2 @@
+# javascript_excercise
+practice_excercise_JavaScript
